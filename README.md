@@ -1,5 +1,9 @@
 # Phonebook API
 
+A sample API implementation supporting CRUD operations for phonebook contacts persisted into an SQLite datastore.
+
+Written using TypeScript, Node.js, Express.
+
 ## Available NPM scripts
 
 ### Install dependencies
