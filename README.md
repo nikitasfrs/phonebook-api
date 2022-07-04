@@ -6,7 +6,7 @@ Written using TypeScript, Node.js, Express.
 
 ## Getting started
 
-1. Install depdencies using `npm i`
+1. Install dependencies using `npm i`
 2. Populate database with mock data using `npm run populate-db`
 3. Start server with `npm start`
 4. Experiment calling the [available endpoints](#available-operations) !
