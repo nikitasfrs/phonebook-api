@@ -1,6 +1,7 @@
 # Phonebook API
 
-A sample API implementation supporting CRUD operations for phonebook contacts persisted into an SQLite datastore.
+A sample API implementation supporting CRUD operations for phonebook contacts persisted into SQLite datastore.
+Input gets validated using Zod.
 
 Written using TypeScript, Node.js, Express.
 
@@ -26,7 +27,7 @@ Written using TypeScript, Node.js, Express.
 
 `npm run dev`
 
-## Available endpoints
+## Available operations
 
 ### GET /contacts
 
