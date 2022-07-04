@@ -1,6 +1,9 @@
 import http from 'http';
 import net from 'net';
 import { createServer } from './server';
+import { initializeDb } from './services/db';
+
+initializeDb();
 
 const host = process.env.HOST || '0.0.0.0';
 const port = process.env.PORT || 3000;
