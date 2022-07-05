@@ -58,7 +58,7 @@ curl --location --request POST 'http://0.0.0.0:3000/contacts' \
 }'
 ```
 
-### PUT /contact/:id
+### PUT /contacts/:id
 
 ```
 curl --location --request PUT 'http://0.0.0.0:3000/contacts/2' \
